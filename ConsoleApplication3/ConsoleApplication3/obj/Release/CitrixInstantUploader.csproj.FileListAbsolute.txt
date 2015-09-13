@@ -1,0 +1,11 @@
+C:\Users\Randy\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\Newtonsoft.Json.dll
+C:\Users\Randy\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ShareFile.Api.Client.Core.dll
+C:\Users\Randy\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ShareFile.Api.Client.Net45.dll
+C:\Users\Randy\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\Newtonsoft.Json.xml
+C:\Users\Randy\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ShareFile.Api.Client.Core.xml
+C:\Users\Randy\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ShareFile.Api.Client.Net45.xml
+C:\Users\Randy\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\Citrix Instant Upload.exe.config
+C:\Users\Randy\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\Citrix Instant Upload.exe
+C:\Users\Randy\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\Citrix Instant Upload.pdb
+C:\Users\Randy\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Release\Citrix Instant Upload.exe
+C:\Users\Randy\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Release\Citrix Instant Upload.pdb
